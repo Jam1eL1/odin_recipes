@@ -1,0 +1,28 @@
+html {
+    font-family: Lato, sans-serif;
+}
+
+body {
+    margin-top: 80px;
+}
+
+.header {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.nav {
+    margin-bottom: 3rem;
+    font-size: 1.2rem;
+}
+.nav__link {
+    text-decoration: none;
+    color: rgb(255, 142, 212)
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
